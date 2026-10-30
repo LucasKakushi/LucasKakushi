@@ -100,6 +100,7 @@ Job monitoring bot that filters openings and sends **Telegram notifications**, a
 I'm interested in **Junior Back-end .NET** and **Full Stack** opportunities.
 
 [![GitHub](https://img.shields.io/badge/GitHub-LucasKakushi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucasKakushi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Kakushi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-kakushi-3448693a7/)
 
 <sub>Building software, learning continuously, and turning real problems into working solutions.</sub>
 
